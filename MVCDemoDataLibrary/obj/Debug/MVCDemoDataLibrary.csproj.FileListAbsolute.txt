@@ -1,0 +1,9 @@
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\bin\Debug\MVCDemoDataLibrary.dll
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\bin\Debug\MVCDemoDataLibrary.pdb
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\bin\Debug\Dapper.dll
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\bin\Debug\Dapper.xml
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\obj\Debug\MVCDemoDataLibrary.csprojAssemblyReference.cache
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\obj\Debug\MVCDemoDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\obj\Debug\MVCDemoDataLibrary.csproj.CopyComplete
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\obj\Debug\MVCDemoDataLibrary.dll
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDataLibrary\obj\Debug\MVCDemoDataLibrary.pdb

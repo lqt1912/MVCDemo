@@ -1,0 +1,6 @@
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDatabase\bin\Debug\MVCDemoDatabase.dacpac
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDatabase\bin\Debug\MVCDemoDatabase.dll
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDatabase\bin\Debug\MVCDemoDatabase.pdb
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDatabase\obj\Debug\MVCDemoDatabase.sqlprojAssemblyReference.cache
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDatabase\obj\Debug\MVCDemoDatabase.dll
+C:\Users\thang\source\repos\MVCDemo\MVCDemoDatabase\obj\Debug\MVCDemoDatabase.pdb
